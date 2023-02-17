@@ -1,0 +1,18 @@
+
+{
+	"firstName": "Rushan",
+	"lastName": "Akhmetov",
+	"surname": "Sabitovich",
+	"Salary": 600,
+	"Animal":{
+		"cat":{
+			"name": "Barsik",
+			"age": 1
+		},
+		"dog":{
+			"name": "Sharik",
+			"age": 1
+		}
+	
+			
+}
