@@ -1,6 +1,7 @@
 {
   "Bug_id":"1",
   "Priority":"Hight",
+  "Severity":"Critical",
   "Summary":"Total price does not reflected git to the product quantity",
   "Steps to reproduce":
   {
