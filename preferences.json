@@ -1,9 +1,9 @@
 
 {
-	"interests":{
-		"movie": "the pursuit of happiness",
-		"food":"burgers"
+	"preferences":{
+		"movie": "The pursuit of happiness",
+		"food":"burger"
 		},
 		"My favorite season": "winter",
-		"country tovisit": "England"
+		"country to visit": "England"
 }
