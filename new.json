@@ -2,16 +2,16 @@
 {
 	"firstName": "Rushan",
 	"lastName": "Akhmetov",
-	"surname": "Sabitovich",
+	"patronymic": "Sabitovich",
 	"Salary": 600,
-	"Animal":{
+	"pets":{
 		"cat":{
 			"name": "Barsik",
 			"age": 1
 		},
 		"dog":{
 			"name": "Sharik",
-			"age": 1
+			"age": 2
 		}
 	
 			
